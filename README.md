@@ -2,7 +2,7 @@
 
 
 
-## Versão V.10.3 - 30/08/2025
+## 🚀 Versão V.10.3 - 30/08/2025
 
 ✅ Correções no Darkmode (em mensagens)
 
