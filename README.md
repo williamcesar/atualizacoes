@@ -4,6 +4,14 @@
 
 ## 🚀 Versão V.10.3 - 30/08/2025
 
+✅ Novo layout interno
+
+✅ Novo Kanban (Agora você poderá mover tanto para esquerda ou direita)
+
+✅ Novo layout das telas de login e cadastro
+
+✅ Novo Tarefas agora com notificações (Ao criar uma tarefa você será lembrando com um popup avisando que a tarefa chegou ao fim)
+
 ✅ Correções no Darkmode (em mensagens)
 
 ✅ Botão Light/Dark movido (agora localizado no perfil)
@@ -16,23 +24,16 @@
 
 ✅ Correção no envio de menu (filas) – na terceira tentativa, a mensagem é enviada automaticamente para a primeira fila.
 
-✅ Botão de tradução adicionado
-
 ✅ Aviso de contato (quando o ticket está aberto, um aviso é emitido)
 
 ✅ Página de conexão redesenhada
-
-✅ Inclusão da opção de SuperAdmin (no popup de usuário)
 
 ✅ Correção de agendamento (agora permite enviar imagem junto ao texto)
 
 ✅ Agendamento reformulado (suporte para ciclos adicionado)
 
-✅ Novo layout das telas de login e signup
+✅ Correção nos Horários de Atendimento
 
-✅ Correção de vazamento no WebSocket
-
-✅ Correção nos Horarios de Atendimento
 
 
 
